@@ -416,14 +416,14 @@ other_score_table = {
                 {'score': 4, 'range': [99.4, 104.1]},
                 {'score': 5, 'range': [104.1, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [15.8, 12.9]},
                 {'score': 2, 'range': [12.8, 10.3]},
                 {'score': 3, 'range': [10.2, 9.1]},
                 {'score': 4, 'range': [9.0, 8.0]},
                 {'score': 5, 'range': [float('-inf'), 8.0]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [float('-inf'), 21]},
                 {'score': 2, 'range': [21, 29]},
                 {'score': 3, 'range': [30, 42]},
@@ -467,14 +467,14 @@ other_score_table = {
                 {'score': 4, 'range': [102.1, 106.9]},
                 {'score': 5, 'range': [106.9, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [14.0, 11.4]},
                 {'score': 2, 'range': [11.3, 9.5]},
                 {'score': 3, 'range': [9.4, 8.4]},
                 {'score': 4, 'range': [8.3, 7.5]},
                 {'score': 5, 'range': [float('-inf'), 7.5]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [float('-inf'), 27]},
                 {'score': 2, 'range': [27, 34]},
                 {'score': 3, 'range': [35, 52]},
@@ -518,14 +518,14 @@ other_score_table = {
                 {'score': 4, 'range': [105.5, 110.4]},
                 {'score': 5, 'range': [110.4, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [12.4, 10.2]},
                 {'score': 2, 'range': [10.1, 8.6]},
                 {'score': 3, 'range': [8.5, 7.7]},
                 {'score': 4, 'range': [7.6, 6.9]},
                 {'score': 5, 'range': [float('-inf'), 6.9]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [float('-inf'), 35]},
                 {'score': 2, 'range': [35, 46]},
                 {'score': 3, 'range': [47, 64]},
@@ -569,28 +569,28 @@ other_score_table = {
                 {'score': 4, 'range': [108.5, 113.1]},
                 {'score': 5, 'range': [113.2, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [11.8, 9.8]},
                 {'score': 2, 'range': [9.7, 8.1]},
                 {'score': 3, 'range': [8.0, 7.3]},
                 {'score': 4, 'range': [7.2, 6.7]},
                 {'score': 5, 'range': [float('-inf'), 6.6]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [40, 54]},
                 {'score': 2, 'range': [55, 72]},
                 {'score': 3, 'range': [73, 88]},
                 {'score': 4, 'range': [89, 102]},
                 {'score': 5, 'range': [103, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [2.5, 2.5]},
                 {'score': 2, 'range': [3.0, 4.0]},
                 {'score': 3, 'range': [4.5, 6.0]},
                 {'score': 4, 'range': [6.5, 8.0]},
                 {'score': 5, 'range': [8.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [14.5, 11.3]},
                 {'score': 2, 'range': [11.2, 8.2]},
                 {'score': 3, 'range': [8.1, 6.5]},
@@ -604,7 +604,7 @@ other_score_table = {
                 {'score': 4, 'range': [11.0, 14.4]},
                 {'score': 5, 'range': [14.5, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [28.4, 17.9]},
                 {'score': 2, 'range': [17.8, 9.7]},
                 {'score': 3, 'range': [9.6, 6.3]},
@@ -620,28 +620,28 @@ other_score_table = {
                 {'score': 4, 'range': [112.0, 116.9]},
                 {'score': 5, 'range': [117.0, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [10.3, 9.0]},
                 {'score': 2, 'range': [8.9, 7.7]},
                 {'score': 3, 'range': [7.6, 7.0]},
                 {'score': 4, 'range': [6.9, 6.4]},
                 {'score': 5, 'range': [float('-inf'), 6.3]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [50, 64]},
                 {'score': 2, 'range': [65, 79]},
                 {'score': 3, 'range': [80, 95]},
                 {'score': 4, 'range': [96, 110]},
                 {'score': 5, 'range': [111, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [3.0, 3.5]},
                 {'score': 2, 'range': [4.0, 5.0]},
                 {'score': 3, 'range': [5.5, 7.0]},
                 {'score': 4, 'range': [7.5, 9.0]},
                 {'score': 5, 'range': [9.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [12.5, 9.9]},
                 {'score': 2, 'range': [9.8, 7.3]},
                 {'score': 3, 'range': [7.2, 6.0]},
@@ -655,7 +655,7 @@ other_score_table = {
                 {'score': 4, 'range': [11.0, 14.4]},
                 {'score': 5, 'range': [14.5, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [22.2, 14.1]},
                 {'score': 2, 'range': [14.0, 7.9]},
                 {'score': 3, 'range': [7.8, 5.3]},
@@ -671,28 +671,28 @@ other_score_table = {
                 {'score': 4, 'range': [114.7, 119.7]},
                 {'score': 5, 'range': [119.8, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [10.0, 8.6]},
                 {'score': 2, 'range': [8.5, 7.4]},
                 {'score': 3, 'range': [7.3, 6.8]},
                 {'score': 4, 'range': [6.7, 6.2]},
                 {'score': 5, 'range': [float('-inf'), 6.1]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [56, 69]},
                 {'score': 2, 'range': [70, 89]},
                 {'score': 3, 'range': [90, 102]},
                 {'score': 4, 'range': [103, 119]},
                 {'score': 5, 'range': [120, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [3.0, 3.5]},
                 {'score': 2, 'range': [4.0, 5.5]},
                 {'score': 3, 'range': [6.0, 7.5]},
                 {'score': 4, 'range': [8.0, 10.0]},
                 {'score': 5, 'range': [10.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [11.9, 9.4]},
                 {'score': 2, 'range': [9.3, 6.9]},
                 {'score': 3, 'range': [6.8, 5.7]},
@@ -706,7 +706,7 @@ other_score_table = {
                 {'score': 4, 'range': [11.0, 14.4]},
                 {'score': 5, 'range': [14.5, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [19.2, 12.1]},
                 {'score': 2, 'range': [12.0, 6.8]},
                 {'score': 3, 'range': [6.7, 4.6]},
@@ -722,28 +722,28 @@ other_score_table = {
                 {'score': 4, 'range': [117.8, 123.0]},
                 {'score': 5, 'range': [123.1, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [9.4, 8.0]},
                 {'score': 2, 'range': [7.9, 6.9]},
                 {'score': 3, 'range': [6.8, 6.3]},
                 {'score': 4, 'range': [6.2, 5.8]},
                 {'score': 5, 'range': [float('-inf'), 5.7]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [61, 78]},
                 {'score': 2, 'range': [79, 94]},
                 {'score': 3, 'range': [95, 110]},
                 {'score': 4, 'range': [111, 127]},
                 {'score': 5, 'range': [128, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [3.5, 4.0]},
                 {'score': 2, 'range': [4.5, 6.5]},
                 {'score': 3, 'range': [7.0, 9.0]},
                 {'score': 4, 'range': [9.5, 12.0]},
                 {'score': 5, 'range': [12.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [10.4, 8.3]},
                 {'score': 2, 'range': [8.2, 6.2]},
                 {'score': 3, 'range': [6.1, 5.2]},
@@ -757,7 +757,7 @@ other_score_table = {
                 {'score': 4, 'range': [10.5, 14.4]},
                 {'score': 5, 'range': [14.5, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [16.0, 9.4]},
                 {'score': 2, 'range': [9.3, 5.4]},
                 {'score': 3, 'range': [5.3, 3.8]},
@@ -1257,28 +1257,28 @@ other_score_table = {
                 {'score': 4, 'range': [98.1, 103.0]},
                 {'score': 5, 'range': [103.1, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [16.8, 13.5]},
                 {'score': 2, 'range': [13.4, 10.6]},
                 {'score': 3, 'range': [10.5, 9.4]},
                 {'score': 4, 'range': [9.3, 8.2]},
                 {'score': 5, 'range': [float('-inf'), 8.1]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [21, 28]},
                 {'score': 2, 'range': [29, 39]},
                 {'score': 3, 'range': [40, 54]},
                 {'score': 4, 'range': [55, 71]},
                 {'score': 5, 'range': [72, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [1.0, 1.0]},
                 {'score': 2, 'range': [1.5, 2.0]},
                 {'score': 3, 'range': [2.5, 3.0]},
                 {'score': 4, 'range': [3.5, 5.0]},
                 {'score': 5, 'range': [5.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [25.9, 20.1]},
                 {'score': 2, 'range': [20.0, 13.5]},
                 {'score': 3, 'range': [13.4, 9.8]},
@@ -1292,7 +1292,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 15.9]},
                 {'score': 5, 'range': [16.0, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [49.8, 32.5]},
                 {'score': 2, 'range': [32.4, 17.4]},
                 {'score': 3, 'range': [17.3, 10.8]},
@@ -1308,28 +1308,28 @@ other_score_table = {
                 {'score': 4, 'range': [101.2, 105.5]},
                 {'score': 5, 'range': [105.6, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [14.9, 12.1]},
                 {'score': 2, 'range': [12.0, 9.8]},
                 {'score': 3, 'range': [9.7, 8.7]},
                 {'score': 4, 'range': [8.6, 7.7]},
                 {'score': 5, 'range': [float('-inf'), 7.6]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [25, 33]},
                 {'score': 2, 'range': [34, 49]},
                 {'score': 3, 'range': [50, 64]},
                 {'score': 4, 'range': [65, 81]},
                 {'score': 5, 'range': [82, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [1.5, 1.5]},
                 {'score': 2, 'range': [2.0, 2.5]},
                 {'score': 3, 'range': [3.0, 3.5]},
                 {'score': 4, 'range': [4.0, 5.0]},
                 {'score': 5, 'range': [5.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [21.9, 17.1]},
                 {'score': 2, 'range': [17.0, 11.3]},
                 {'score': 3, 'range': [11.2, 8.5]},
@@ -1343,7 +1343,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 15.9]},
                 {'score': 5, 'range': [16.0, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [40.4, 27.5]},
                 {'score': 2, 'range': [27.4, 15.1]},
                 {'score': 3, 'range': [15.0, 9.7]},
@@ -1359,28 +1359,28 @@ other_score_table = {
                 {'score': 4, 'range': [104.5, 108.9]},
                 {'score': 5, 'range': [109.0, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [13.2, 10.9]},
                 {'score': 2, 'range': [10.8, 9.1]},
                 {'score': 3, 'range': [9.0, 8.1]},
                 {'score': 4, 'range': [8.0, 7.2]},
                 {'score': 5, 'range': [float('-inf'), 7.1]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [32, 43]},
                 {'score': 2, 'range': [44, 59]},
                 {'score': 3, 'range': [60, 73]},
                 {'score': 4, 'range': [74, 89]},
                 {'score': 5, 'range': [90, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [2.0, 2.0]},
                 {'score': 2, 'range': [2.5, 3.0]},
                 {'score': 3, 'range': [3.5, 4.0]},
                 {'score': 4, 'range': [4.5, 5.0]},
                 {'score': 5, 'range': [5.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [17.2, 13.5]},
                 {'score': 2, 'range': [13.4, 9.6]},
                 {'score': 3, 'range': [9.5, 7.4]},
@@ -1394,7 +1394,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 15.9]},
                 {'score': 5, 'range': [16.0, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [32.2, 22.6]},
                 {'score': 2, 'range': [22.5, 12.3]},
                 {'score': 3, 'range': [12.2, 8.2]},
@@ -1410,28 +1410,28 @@ other_score_table = {
                 {'score': 4, 'range': [107.4, 111.9]},
                 {'score': 5, 'range': [112.0, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [12.4, 10.3]},
                 {'score': 2, 'range': [10.2, 8.6]},
                 {'score': 3, 'range': [8.5, 7.7]},
                 {'score': 4, 'range': [7.6, 7.0]},
                 {'score': 5, 'range': [float('-inf'), 6.9]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [40, 49]},
                 {'score': 2, 'range': [50, 67]},
                 {'score': 3, 'range': [68, 80]},
                 {'score': 4, 'range': [81, 96]},
                 {'score': 5, 'range': [97, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [2.0, 2.0]},
                 {'score': 2, 'range': [2.5, 3.0]},
                 {'score': 3, 'range': [3.5, 4.0]},
                 {'score': 4, 'range': [4.5, 5.5]},
                 {'score': 5, 'range': [5.6, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [14.9, 12.0]},
                 {'score': 2, 'range': [11.9, 8.6]},
                 {'score': 3, 'range': [8.5, 6.8]},
@@ -1445,7 +1445,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 16.0]},
                 {'score': 5, 'range': [16.1, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [26.5, 18.7]},
                 {'score': 2, 'range': [18.6, 10.2]},
                 {'score': 3, 'range': [10.1, 7.0]},
@@ -1461,28 +1461,28 @@ other_score_table = {
                 {'score': 4, 'range': [110.5, 115.4]},
                 {'score': 5, 'range': [115.5, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [11.2, 9.7]},
                 {'score': 2, 'range': [9.6, 8.1]},
                 {'score': 3, 'range': [8.0, 7.3]},
                 {'score': 4, 'range': [7.2, 6.7]},
                 {'score': 5, 'range': [float('-inf'), 6.6]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [50, 59]},
                 {'score': 2, 'range': [60, 74]},
                 {'score': 3, 'range': [75, 88]},
                 {'score': 4, 'range': [89, 102]},
                 {'score': 5, 'range': [103, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [2.5, 3.0]},
                 {'score': 2, 'range': [3.5, 4.0]},
                 {'score': 3, 'range': [4.5, 5.5]},
                 {'score': 4, 'range': [6.0, 8.5]},
                 {'score': 5, 'range': [8.6, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [12.7, 10.1]},
                 {'score': 2, 'range': [10.0, 7.6]},
                 {'score': 3, 'range': [7.5, 6.2]},
@@ -1496,7 +1496,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.2, 16.6]},
                 {'score': 5, 'range': [16.7, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [23.7, 14.1]},
                 {'score': 2, 'range': [14.0, 8.3]},
                 {'score': 3, 'range': [8.2, 5.8]},
@@ -1512,28 +1512,28 @@ other_score_table = {
                 {'score': 4, 'range': [113.5, 118.4]},
                 {'score': 5, 'range': [118.5, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [10.5, 9.1]},
                 {'score': 2, 'range': [9.0, 7.7]},
                 {'score': 3, 'range': [7.6, 7.0]},
                 {'score': 4, 'range': [6.9, 6.4]},
                 {'score': 5, 'range': [float('-inf'), 6.3]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [54, 65]},
                 {'score': 2, 'range': [66, 81]},
                 {'score': 3, 'range': [82, 95]},
                 {'score': 4, 'range': [96, 109]},
                 {'score': 5, 'range': [110, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [3.0, 3.0]},
                 {'score': 2, 'range': [3.5, 4.5]},
                 {'score': 3, 'range': [5.0, 6.0]},
                 {'score': 4, 'range': [6.5, 8.5]},
                 {'score': 5, 'range': [8.6, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [11.5, 9.3]},
                 {'score': 2, 'range': [9.2, 7.0]},
                 {'score': 3, 'range': [6.9, 5.8]},
@@ -1547,7 +1547,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 16.7]},
                 {'score': 5, 'range': [16.8, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [20.1, 12.6]},
                 {'score': 2, 'range': [12.5, 7.5]},
                 {'score': 3, 'range': [7.4, 5.1]},
@@ -1563,28 +1563,28 @@ other_score_table = {
                 {'score': 4, 'range': [116.7, 121.7]},
                 {'score': 5, 'range': [121.8, float('inf')]}
             ],
-            '10m_shuttle_run': [
+            'run_10m': [
                 {'score': 1, 'range': [10.2, 8.6]},
                 {'score': 2, 'range': [8.5, 7.3]},
                 {'score': 3, 'range': [7.2, 6.6]},
                 {'score': 4, 'range': [6.5, 6.1]},
                 {'score': 5, 'range': [float('-inf'), 6.0]}
             ],
-            'standing_long_jump': [
+            'standing_jump': [
                 {'score': 1, 'range': [60, 70]},
                 {'score': 2, 'range': [71, 86]},
                 {'score': 3, 'range': [87, 100]},
                 {'score': 4, 'range': [101, 116]},
                 {'score': 5, 'range': [117, float('inf')]}
             ],
-            'tennis_ball_throw': [
+            'tennis_throw': [
                 {'score': 1, 'range': [3.0, 3.0]},
                 {'score': 2, 'range': [3.5, 4.5]},
                 {'score': 3, 'range': [5.0, 6.0]},
                 {'score': 4, 'range': [6.5, 8.0]},
                 {'score': 5, 'range': [8.1, float('inf')]}
             ],
-            'double_foot_jump': [
+            'continuous_jump': [
                 {'score': 1, 'range': [10.5, 8.4]},
                 {'score': 2, 'range': [8.3, 6.3]},
                 {'score': 3, 'range': [6.2, 5.3]},
@@ -1598,7 +1598,7 @@ other_score_table = {
                 {'score': 4, 'range': [13.0, 16.7]},
                 {'score': 5, 'range': [16.8, float('inf')]}
             ],
-            'balance_beam_walk': [
+            'balance_beam': [
                 {'score': 1, 'range': [17.0, 10.8]},
                 {'score': 2, 'range': [10.7, 6.2]},
                 {'score': 3, 'range': [6.1, 4.3]},

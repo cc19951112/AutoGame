@@ -413,7 +413,7 @@ weight_score_table = {
                 [{'score': 1, 'range': [43.7, float('inf')]}, {'score': 3, 'range': [42.8, 43.7]}, {'score': 5, 'range': [32.6, 42.7]}, {'score': 3, 'range': [31.0, 32.5]}, {'score': 1, 'range': [float('-inf'), 31.0]}],
             ]
         },
-        '30-39': {
+        '60-69': {
             'height_ranges': [
                 (140.0, 140.9), (141.0, 141.9), (142.0, 142.9), (143.0, 143.9),
                 (144.0, 144.9), (145.0, 145.9), (146.0, 146.9), (147.0, 147.9),
@@ -478,10 +478,7 @@ weight_score_table = {
                 [{'score': 1, 'range': [96.1, float('inf')]}, {'score': 3, 'range': [91.9, 96.1]}, {'score': 5, 'range': [73.7, 91.8]}, {'score': 3, 'range': [65.3, 73.6]}, {'score': 1, 'range': [float('-inf'), 65.3]}],
                 [{'score': 1, 'range': [96.8, float('inf')]}, {'score': 3, 'range': [92.8, 96.8]}, {'score': 5, 'range': [74.5, 92.7]}, {'score': 3, 'range': [66.0, 74.4]}, {'score': 1, 'range': [float('-inf'), 66.0]}]
             ]
-
-
-
-
+        }
     },
     'female': {
         '20-29': {
